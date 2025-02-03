@@ -1,0 +1,89 @@
+body {
+    
+    background-color: #16365d;
+    font-family: Arial;
+}
+h1 {
+    color: white;
+    text-align:right;
+
+} 
+.middle {
+    font-size: 40px;
+    text-align: center;
+    color: red;
+}
+p {  
+    color: white;
+            
+}
+.paragraph {
+    text-align: center;
+}
+.paragraph2 {
+    text-align: left;
+}
+.rightalign {
+    text-align: right;
+    color: white;
+}
+.redping{ 
+    color: red;
+}
+.purpleping {
+    color: fuchsia;
+    width: 100%;
+
+    
+}
+.gyellowping {
+    text-decoration: underline;
+    color: yellow;
+}
+.blueping {
+    color: blue;
+}
+.anotherblueping {
+    color: blue;
+}
+.greenping {
+    color: rgb(0, 255, 0);
+}
+ul {
+    color: white;
+    
+}
+.formattext {
+    background-color: black;
+    width: 50%;
+    height: 55px;
+    border-left: 1px solid red;
+    border-top: 1px solid red;
+
+}
+.padding {
+    background-color: rgb(0, 255, 0);
+color: black;
+}
+.green {
+    color: rgb(0, 255, 0);
+    text-align: left;
+
+}
+.contained {
+    background-color: black;
+    border-left: 1px solid red;
+    border-right: 1px solid yellow;
+    padding: 15px;
+}
+.yellow {
+    color: yellow;
+    border-bottom: 1px solid yellow ;
+    width: 300px;
+}
+.galleries {
+    text-align: center;
+}
+.bgred {
+    background-color: red;
+}
